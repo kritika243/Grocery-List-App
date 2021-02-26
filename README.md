@@ -6,3 +6,5 @@ Tech Stack - HML, CSS, JavaScript
 * Remove Item
 * Clear all items
 * Load items from LocalStorage
+
+Checkout - https://kritika243.github.io/Grocery-List-App/
